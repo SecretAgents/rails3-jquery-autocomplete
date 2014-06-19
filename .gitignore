@@ -29,6 +29,7 @@ tmp
 .rvmrc
 .gemrc
 Gemfile.lock
+atlassian-ide-plugin.xml
 
 tags
 rails3-jquery-autocomplete-*.gem
